@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Bogdan 👋
 
-<!--
-**MareBogdan/MareBogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer from Romania — I build full-stack products and, increasingly, AI-powered ones. Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into machine learning with PyTorch.
 
-Here are some ideas to get you started:
+**What I'm doing**
+- 🚀 Freelance developer on the **EduNext** team (edunext.ro), a launched student platform. I built two of its backend services from scratch — a **job scraper** and an **event scraper** — plus an **automated CV-generation engine** (Node/NestJS, Railway). I also contribute to the main app (e.g. the *My City* maps feature).
+- 🤖 Building apps with **LLMs** — RAG, agents, and API integrations (Anthropic, Gemini).
+- 📚 Learning **ML / deep learning** — PyTorch and neural networks; also built classification & regression models for a data-mining project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
+- **Primary:** React · TypeScript · JavaScript · Python · Node.js
+- **Databases:** PostgreSQL · Supabase · SQL / NoSQL
+- **AI:** PyTorch (learning) · LLM apps (RAG, agents) · Anthropic & Gemini APIs
+- **Also:** C / C++ · C# · PHP
+
+**Featured projects**
+- **Calorie Tracker** — React Native + Expo · bachelor's thesis
+- **DevPath** — gamified AI-education platform (Next.js, Supabase, Stripe)
+- **EduNext scrapers + CV engine** — backend services with LLM normalization
+
+📫 marebogdan03@gmail.com · [LinkedIn](https://www.linkedin.com/in/bogdan-mare-966b51323/)
