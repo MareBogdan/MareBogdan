@@ -15,7 +15,7 @@ Software developer from Romania — I build full-stack products and, increasingl
 - **Primary:** React · TypeScript · JavaScript · Python · Node.js
 - **Databases:** PostgreSQL · Supabase · SQL / NoSQL
 - **AI:** PyTorch (learning) · LLM apps (RAG, agents) · Anthropic & Gemini APIs
-- **Also:** C / C++ · C# · PHP
+- **Also:** Express · Docker · Unit testing · C / C++ · C# · PHP
 
 **Featured projects**
 - **Calorie Tracker** — React Native + Expo · bachelor's thesis
