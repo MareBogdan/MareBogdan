@@ -3,7 +3,7 @@
 Software developer from Romania — I build full-stack products and, increasingly, AI-powered ones. Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into machine learning with PyTorch.
 
 **What I'm doing**
-- - 🚀 Freelance developer on the **EduNext** team (edunext.ro), a launched student
+ - 🚀 Freelance developer on the **EduNext** team (edunext.ro), a launched student
   platform. I built its **job-aggregation service** (TypeScript/Node, LLM enrichment),
   its **event-scraping pipeline** (Python), and the **CV-generation microservice**
   (Express + Puppeteer, Docker, Railway). I also work on the main app's *My City*
