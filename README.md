@@ -3,7 +3,11 @@
 Software developer from Romania — I build full-stack products and, increasingly, AI-powered ones. Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into machine learning with PyTorch.
 
 **What I'm doing**
-- 🚀 Freelance developer on the **EduNext** team (edunext.ro), a launched student platform. I built two of its backend services from scratch — a **job scraper** and an **event scraper** — plus an **automated CV-generation engine** (Node/NestJS, Railway). I also contribute to the main app (e.g. the *My City* maps feature).
+- - 🚀 Freelance developer on the **EduNext** team (edunext.ro), a launched student
+  platform. I built its **job-aggregation service** (TypeScript/Node, LLM enrichment),
+  its **event-scraping pipeline** (Python), and the **CV-generation microservice**
+  (Express + Puppeteer, Docker, Railway). I also work on the main app's *My City*
+  Mapbox GL map — and cover it with unit tests.
 - 🤖 Building apps with **LLMs** — RAG, agents, and API integrations (Anthropic, Gemini).
 - 📚 Learning **ML / deep learning** — PyTorch and neural networks; also built classification & regression models for a data-mining project.
 
