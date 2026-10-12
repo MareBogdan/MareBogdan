@@ -1,4 +1,4 @@
-# Hi, I'm Bogdan 👋
+# Hi, I'm Bogdan 
 
 Software engineer from Romania — I build full-stack products and, increasingly, AI-powered ones.
 Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into machine learning with PyTorch.
@@ -7,15 +7,15 @@ Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into m
 
 ### What I'm doing
 
-- 🚀 Freelance developer on the **EduNext** team ([edunext.ro](https://edunext.ro/)), a launched student
+-  Freelance developer on the **EduNext** team ([edunext.ro](https://edunext.ro/)), a launched student
   platform. I built its job-aggregation service (TypeScript/Node, five job boards, LLM classification and
   typed extraction), its event-aggregation pipeline (Python, eight sources), and the CV-generation
   microservice (Express 5 + Puppeteer, Docker, Railway). I also contributed to the main app's *My City*
   Mapbox GL map, refactoring its search into a pure core covered by 131 unit tests.
-- 🧠 Two of my own systems running in production: **[DevPath RO](https://devpath-ro.vercel.app)**, a
+-  Two of my own systems running in production: **[DevPath RO](https://devpath-ro.vercel.app)**, a
   Romanian-language IT & AI learning platform, and **[PricePilot](https://pricepilot-s1jj.onrender.com)**,
   a competitive pricing system built on a fine-tuned matching model.
-- 📚 Learning ML / deep learning — PyTorch and neural networks.
+-  Learning ML / deep learning — PyTorch and neural networks.
 
 ### Tech
 
@@ -38,4 +38,4 @@ Finishing an MSc in E-Business at Babeș-Bolyai University and going deep into m
 - **[Football Prediction Platform](https://github.com/MareBogdan/football-platform)** — three .NET
   microservices over gRPC with an ML.NET classifier. Master's coursework.
 
-📫 marebogdan03@gmail.com · [LinkedIn](https://www.linkedin.com/in/bogdan-mare/)
+ marebogdan03@gmail.com · [LinkedIn](https://www.linkedin.com/in/bogdan-mare/)
